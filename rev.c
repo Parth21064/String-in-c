@@ -23,7 +23,7 @@ int main(){
         name[i]=name[i]^name[len-i-1];
     }
 
-    printf("%s",name);
+    printf("\n%s",name);
 
     return 0;
 }
